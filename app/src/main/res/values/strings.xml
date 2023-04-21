@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsAndMaps</string>
+    <string name="main_ac">Lyes Maps</string>
+    <string name="mark_permission">Permitir marcas acumulables</string>
+    <string name="pickcolor">Pick a color</string>
+
+</resources>
